@@ -23,7 +23,6 @@ Start with your service region. Each entrance below keeps the website, developer
       <h3>🌍 GLOBAL</h3>
       <p><strong>Explore, build and manage with Realsee Global.</strong></p>
       <p>An all-in-one ecosystem of high-precision LiDAR hardware and AI-powered software.</p>
-
       <p>
         🌐&nbsp;
         <a href="https://www.realsee.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=global_website">
@@ -31,7 +30,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>Discover products, solutions and customer stories.</sub>
       </p>
-
       <p>
         🧰&nbsp;
         <a href="https://developer.realsee.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=global_developer_platform">
@@ -39,7 +37,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>Explore SDKs, APIs, guides and developer documentation.</sub>
       </p>
-
       <p>
         🚀&nbsp;
         <a href="https://my.realsee.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=global_workspace">
@@ -47,7 +44,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>Create and manage your digital twin spaces.</sub>
       </p>
-
       <p>
         ✉️&nbsp;
         <a href="mailto:developer@realsee.ai">
@@ -56,12 +52,10 @@ Start with your service region. Each entrance below keeps the website, developer
         <br><sub>Get in touch about integrations and developer questions.</sub>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>🇨🇳 中国大陆</h3>
       <p><strong>通过如视中国站了解产品、开发并管理空间。</strong></p>
       <p>真实空间的 3D 采集、VR 展示、数字孪生与智能管理平台。</p>
-
       <p>
         🌐&nbsp;
         <a href="https://www.realsee.com/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=cn_website">
@@ -69,7 +63,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>了解产品、解决方案与客户案例。</sub>
       </p>
-
       <p>
         🧰&nbsp;
         <a href="https://open-platform.realsee.com/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=cn_developer_platform">
@@ -77,7 +70,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>查看 SDK、API、开发指南与文档。</sub>
       </p>
-
       <p>
         🚀&nbsp;
         <a href="https://my.realsee.cn/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=realsee_developer_org&amp;utm_content=cn_workspace">
@@ -85,7 +77,6 @@ Start with your service region. Each entrance below keeps the website, developer
         </a>
         <br><sub>创建和管理数字孪生空间。</sub>
       </p>
-
       <p>
         ✉️&nbsp;
         <a href="mailto:developer@realsee.com">

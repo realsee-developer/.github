@@ -63,8 +63,8 @@ This organization is home to Realsee's public developer projects. Start from the
 <p align="center">
   <a href="https://www.facebook.com/RealseeVR"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Realsee on Facebook"></a>
   <a href="https://www.instagram.com/realsee_tech/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Realsee on Instagram"></a>
-  <a href="https://www.youtube.com/channel/UCARlm-6LYCRgjIu_R8LbD8Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Realsee on YouTube"></a>
-  <a href="https://www.linkedin.com/company/74932665/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Realsee on LinkedIn"></a>
+  <a href="https://www.youtube.com/@Realsee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Realsee on YouTube"></a>
+  <a href="https://www.linkedin.com/company/realsee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Realsee on LinkedIn"></a>
   <a href="https://discord.gg/JvxBZJkbNZ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Realsee Discord community"></a>
 </p>
 

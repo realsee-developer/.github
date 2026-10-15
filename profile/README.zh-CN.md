@@ -36,15 +36,13 @@ RealSee3D 收录 10,000 个室内场景，并提供多视角 RGB-D 数据。场�
 
 dnalogel 可为 Realsee 场景添加标签、标尺、小地图和镜头动效等交互功能。
 
-**[查看 dnalogel 插件 →](https://open-platform.realsee.com/developer/docs/dnalogel/intro/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=dnalogel_docs_zh_cn)**
-
 ## 选择所在地区
 
 如果你在中国大陆，请使用 **中国大陆** 入口；其他地区请使用 **GLOBAL / 全球** 入口。
 
 ### 中国大陆
 
-**[进入如视开放平台 →](https://open-platform.realsee.com/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_developer_platform_zh_cn)**
+**[进入如视开放平台 →](https://open.realsee.cn/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_developer_platform_zh_cn)**
 
 [了解如视](https://www.realsee.com/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_website_zh_cn) · [打开如视工作台](https://my.realsee.cn/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_workspace_zh_cn) · [联系开发者团队](mailto:developer@realsee.com)
 

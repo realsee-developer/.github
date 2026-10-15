@@ -36,8 +36,6 @@ Agent and CLI workflows for Realsee Argus, a world-leading 3D vision foundation 
 
 Spatial UI layers for tags, rulers, mini maps, camera flows, and other interactions on top of a Realsee scene.
 
-**[Browse dnalogel plugins →](https://open-platform.realsee.com/developer/docs/dnalogel/intro/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=dnalogel_docs)**
-
 ## Choose your region
 
 Use **China Mainland** if you are currently in Mainland China. Use **GLOBAL / 全球** everywhere else.
@@ -52,7 +50,7 @@ For developers and customers outside Mainland China.
 
 ### China Mainland / 中国大陆
 
-**[进入如视开放平台 →](https://open-platform.realsee.com/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_developer_platform)**
+**[进入如视开放平台 →](https://open.realsee.cn/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_developer_platform)**
 
 [了解如视](https://www.realsee.com/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_website) · [打开如视工作台](https://my.realsee.cn/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=cn_workspace) · [联系开发者团队](mailto:developer@realsee.com)
 

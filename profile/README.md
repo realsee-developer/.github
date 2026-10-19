@@ -20,6 +20,10 @@ Metric panoramic 3D reconstruction for indoor scenes. Accepted to ECCV 2026.
 
 **[View the Argus research page →](https://argus-paper.realsee.ai/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_research)**
 
+For API integration, reconstruct a space from multiple 2:1 equirectangular panoramas or multiple 1:1 pinhole images, packaged in one ZIP. Choose one image type per batch.
+
+[API quickstart →](https://developer.realsee.ai/docs/argus/quickstart?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_api_quickstart) · [Outputs and result handling →](https://developer.realsee.ai/docs/argus/outputs?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_outputs)
+
 ### [RealSee3D](https://github.com/realsee-developer/RealSee3D)
 
 A large-scale, multi-view RGB-D dataset with 10,000 real-world and procedurally generated indoor scenes.

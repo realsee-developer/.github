@@ -20,6 +20,10 @@ Argus 通过全景图重建具有真实尺度的室内三维空间，相关论�
 
 **[查看 Argus 研究主页 →](https://argus-paper.realsee.ai/?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_research_zh_cn)**
 
+通过 API 接入时，可将多张 2:1 等距柱状全景图或多张 1:1 针孔图打包为一个 ZIP，重建空间。每个批次选择一种图片类型。
+
+[API 快速接入 →](https://developer.realsee.ai/docs/argus/quickstart?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_api_quickstart_zh_cn) · [产物与结果处理 →](https://developer.realsee.ai/docs/argus/outputs?utm_source=github&utm_medium=referral&utm_campaign=realsee_developer_org&utm_content=argus_outputs_zh_cn)
+
 ### [RealSee3D](https://github.com/realsee-developer/RealSee3D)
 
 RealSee3D 收录 10,000 个室内场景，并提供多视角 RGB-D 数据。场景来自真实采集或程序化生成。

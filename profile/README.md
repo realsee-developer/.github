@@ -36,6 +36,13 @@ Agent and CLI workflows for Realsee Argus, a world-leading 3D vision foundation 
 
 Spatial UI layers for tags, rulers, mini maps, camera flows, and other interactions on top of a Realsee scene.
 
+## Engineering articles
+
+- [Migrating Realsee’s 3D Tour Renderer to WebGPU](https://realsee-developer.github.io/engineering-blog/webgpu/article.en.html?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_webgpu_en): the rendering, resource, and integration changes behind panoramas and textured models.
+- [From Ultra HDR to Space HDR](https://realsee-developer.github.io/engineering-blog/space-hdr/article.en.html?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_space_hdr_en): HDR imaging from RAW capture to spatial exploration, with a live experience and support check.
+
+[Read the articles on GitHub →](https://github.com/realsee-developer/engineering-blog?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_articles_en)
+
 ## Choose your region
 
 Use **China Mainland** if you are currently in Mainland China. Use **GLOBAL / 全球** everywhere else.

@@ -38,8 +38,8 @@ Spatial UI layers for tags, rulers, mini maps, camera flows, and other interacti
 
 ## Engineering articles
 
-- [Realsee Rewrites Its Entire 3D Renderer with WebGPU: Pursuing the Ultimate 3D Experience](https://www.realsee.ai/blogs/dev/webgpu-spatial-rendering-engineering?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_webgpu_en): the rendering, resource, and integration changes behind panoramas and textured models.
-- [From Ultra HDR to Space HDR](https://www.realsee.ai/blogs/dev/realsee-ultra-hdr-to-space-hdr?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_space_hdr_en): HDR imaging from RAW capture to spatial exploration, with a live experience and support check.
+- [Realsee Rewrites Its Entire 3D Renderer with WebGPU: Pursuing the Ultimate 3D Experience](https://www.realsee.ai/blogs/dev/webgpu-spatial-rendering-engineering?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_webgpu_en): the rendering, resource, and integration changes behind panoramas and textured models. [Discuss the engineering →](https://github.com/realsee-developer/.github/discussions/8?utm_source=github&utm_medium=referral&utm_campaign=dev_blogs_webgpu_space_hdr_202610&utm_content=org_profile_webgpu_en)
+- [From Ultra HDR to Space HDR](https://www.realsee.ai/blogs/dev/realsee-ultra-hdr-to-space-hdr?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_space_hdr_en): HDR imaging from RAW capture to spatial exploration, with a live experience and support check. [Discuss HDR integration →](https://github.com/realsee-developer/panorama-viewer/discussions/1?utm_source=github&utm_medium=referral&utm_campaign=dev_blogs_webgpu_space_hdr_202610&utm_content=org_profile_hdr_en)
 
 [Read Dev Blog →](https://www.realsee.ai/blogs/dev?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_articles_en)
 

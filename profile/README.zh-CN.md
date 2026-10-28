@@ -38,8 +38,8 @@ dnalogel 可为 Realsee 场景添加标签、标尺、小地图和镜头动效�
 
 ## 技术文章
 
-- [Realsee 以 WebGPU 全面重写空间渲染器：追求极致 3D 体验](https://www.realsee.ai/zh/blogs/dev/webgpu-spatial-rendering-engineering?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_webgpu_zh_cn)：全景、纹理模型与空间交互迁移到 WebGPU 的工程处理。
-- [从 Ultra HDR 到 Space HDR](https://www.realsee.ai/zh/blogs/dev/realsee-ultra-hdr-to-space-hdr?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_space_hdr_zh_cn)：从 RAW 采集到空间漫游的 HDR 影像链路，附实景体验与支持检测。
+- [Realsee 以 WebGPU 全面重写空间渲染器：追求极致 3D 体验](https://www.realsee.ai/zh/blogs/dev/webgpu-spatial-rendering-engineering?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_webgpu_zh_cn)：全景、纹理模型与空间交互迁移到 WebGPU 的工程处理。 [讨论渲染实现 →](https://github.com/realsee-developer/.github/discussions/8?utm_source=github&utm_medium=referral&utm_campaign=dev_blogs_webgpu_space_hdr_202610&utm_content=org_profile_webgpu_zh_cn)
+- [从 Ultra HDR 到 Space HDR](https://www.realsee.ai/zh/blogs/dev/realsee-ultra-hdr-to-space-hdr?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_space_hdr_zh_cn)：从 RAW 采集到空间漫游的 HDR 影像链路，附实景体验与支持检测。 [讨论 HDR 集成 →](https://github.com/realsee-developer/panorama-viewer/discussions/1?utm_source=github&utm_medium=referral&utm_campaign=dev_blogs_webgpu_space_hdr_202610&utm_content=org_profile_hdr_zh_cn)
 
 [前往官网 Dev Blog →](https://www.realsee.ai/zh/blogs/dev?utm_source=github&utm_medium=referral&utm_campaign=webgpu_space_hdr&utm_content=org_profile_articles_zh_cn)
 
